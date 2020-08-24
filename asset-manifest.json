@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Techview/static/css/main.59e4f258.chunk.css",
+    "main.js": "/Techview/static/js/main.05a2a67b.chunk.js",
+    "main.js.map": "/Techview/static/js/main.05a2a67b.chunk.js.map",
+    "runtime-main.js": "/Techview/static/js/runtime-main.bb8b44f4.js",
+    "runtime-main.js.map": "/Techview/static/js/runtime-main.bb8b44f4.js.map",
+    "static/css/2.75c4ecca.chunk.css": "/Techview/static/css/2.75c4ecca.chunk.css",
+    "static/js/2.c8549d12.chunk.js": "/Techview/static/js/2.c8549d12.chunk.js",
+    "static/js/2.c8549d12.chunk.js.map": "/Techview/static/js/2.c8549d12.chunk.js.map",
+    "index.html": "/Techview/index.html",
+    "precache-manifest.87ee7d27e388b1311aa5d44ba15044c2.js": "/Techview/precache-manifest.87ee7d27e388b1311aa5d44ba15044c2.js",
+    "service-worker.js": "/Techview/service-worker.js",
+    "static/css/2.75c4ecca.chunk.css.map": "/Techview/static/css/2.75c4ecca.chunk.css.map",
+    "static/css/main.59e4f258.chunk.css.map": "/Techview/static/css/main.59e4f258.chunk.css.map",
+    "static/js/2.c8549d12.chunk.js.LICENSE.txt": "/Techview/static/js/2.c8549d12.chunk.js.LICENSE.txt",
+    "static/media/android.png": "/Techview/static/media/android.59b711e1.png",
+    "static/media/backend.jpg": "/Techview/static/media/backend.647d7e13.jpg",
+    "static/media/frontend.jpg": "/Techview/static/media/frontend.4ea8a614.jpg",
+    "static/media/home.png": "/Techview/static/media/home.d9a2e76d.png",
+    "static/media/img2.jpg": "/Techview/static/media/img2.ef178b6a.jpg",
+    "static/media/management.png": "/Techview/static/media/management.a91533ea.png",
+    "static/media/software-developer.png": "/Techview/static/media/software-developer.86bef795.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb8b44f4.js",
+    "static/css/2.75c4ecca.chunk.css",
+    "static/js/2.c8549d12.chunk.js",
+    "static/css/main.59e4f258.chunk.css",
+    "static/js/main.05a2a67b.chunk.js"
+  ]
+}
